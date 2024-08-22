@@ -1,24 +1,24 @@
-//base by Jean Parker 
+//base by Cytra
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Jean-Parker-tech
-//Instagram: its_jeanparker
-//Telegram: t.me/Jeanparker100
-//GitHub: @Jeanparker100
-//WhatsApp: +22898133388
+//YouTube: @Cytra_k9
+//Instagram: Cytra_k9
+//Telegram: t.me/cytra_k9
+//GitHub: @CytraK
+//WhatsApp: +254715155196
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-Parker-tech
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22898133388"
-global.ownername = "🩵 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛"
-global.ytname = "YT: Jean-parker-tech"
-global.socialm = "GitHub: Jeanparker100"
+global.ownernomer = "254715156196"
+global.ownername = "🩵 Cytra"
+global.ytname = "YT: Cytra_k9 "
+global.socialm = "GitHub: CytraK"
 global.location = "Togo, maritime, Lomé"
 
-global.ownernumber = '22898133388'  //creator number
-global.ownername = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛' //owner name
+global.ownernumber = '254715155196'  //creator number
+global.ownername = 'Cytra' //owner name
 global.botname = '𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
 
 //sticker details
@@ -30,7 +30,7 @@ global.themeemoji = '🩵'
 global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45'
+global.link = ''
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
