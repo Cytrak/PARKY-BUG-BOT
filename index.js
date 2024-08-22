@@ -1,10 +1,10 @@
-//base by Jean Parker 
+//base by Cytra 
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @Jean-parker-tech
-//Instagram: its_jeanparker
+//Instagram: Cytra_k9
 //Telegram: t.me/Jeanparker100
-//GitHub: @Jeanparker100
-//WhatsApp: +22898133388
+//GitHub: @CytraK
+//WhatsApp: +254715155196
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-parker-tech
 
 
